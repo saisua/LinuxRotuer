@@ -1,0 +1,268 @@
+Configuration file: hostapd.conf
+Could not read interface wlan1mon flags: No such device
+nl80211: Driver does not support authentication/association or connect commands
+nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+Could not read interface wlan1mon flags: No such device
+Could not read interface wlan1mon flags: No such device
+Could not read interface wlan1mon flags: No such device
+nl80211 driver initialization failed.
+wlan1mon: interface state UNINITIALIZED->DISABLED
+wlan1mon: AP-DISABLED 
+hostapd_free_hapd_data: Interface wlan1mon wasn't started
+Configuration file: hostapd.conf
+Could not read interface wlan1mon flags: No such device
+nl80211: Driver does not support authentication/association or connect commands
+nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+Could not read interface wlan1mon flags: No such device
+Could not read interface wlan1mon flags: No such device
+Could not read interface wlan1mon flags: No such device
+nl80211 driver initialization failed.
+wlan1mon: interface state UNINITIALIZED->DISABLED
+wlan1mon: AP-DISABLED 
+hostapd_free_hapd_data: Interface wlan1mon wasn't started
+Configuration file: hostapd.conf
+Using interface wlan1mon with hwaddr 18:d6:c7:09:cf:dc and ssid "test"
+wlan1mon: interface state UNINITIALIZED->ENABLED
+wlan1mon: AP-ENABLED 
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: authenticated
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: associated (aid 1)
+wlan1mon: AP-STA-CONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 RADIUS: starting accounting session 0125C3C571DF8D76
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: pairwise key handshake completed (RSN)
+wlan1mon: interface state ENABLED->DISABLED
+wlan1mon: AP-STA-DISCONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: AP-DISABLED 
+nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+Configuration file: hostapd.conf
+Using interface wlan1mon with hwaddr 18:d6:c7:09:cf:dc and ssid "test"
+wlan1mon: interface state UNINITIALIZED->ENABLED
+wlan1mon: AP-ENABLED 
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: authenticated
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: associated (aid 1)
+wlan1mon: AP-STA-CONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 RADIUS: starting accounting session 938F99A6EE2E7BBC
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: pairwise key handshake completed (RSN)
+wlan1mon: AP-STA-DISCONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: authenticated
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: associated (aid 1)
+wlan1mon: AP-STA-CONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 RADIUS: starting accounting session 050496BE9C0FFE6C
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: pairwise key handshake completed (RSN)
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: group key handshake completed (RSN)
+wlan1mon: AP-STA-DISCONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: INTERFACE-ENABLED 
+Failed to set beacon parameters
+wlan1mon: INTERFACE-DISABLED 
+Configuration file: hostapd.conf
+Using interface wlan1mon with hwaddr 18:d6:c7:09:cf:dc and ssid "test"
+wlan1mon: interface state UNINITIALIZED->ENABLED
+wlan1mon: AP-ENABLED 
+wlan1mon: interface state ENABLED->DISABLED
+wlan1mon: AP-DISABLED 
+nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+Configuration file: hostapd.conf
+Using interface wlan1mon with hwaddr 18:d6:c7:09:cf:dc and ssid "test"
+wlan1mon: interface state UNINITIALIZED->ENABLED
+wlan1mon: AP-ENABLED 
+wlan1mon: INTERFACE-DISABLED 
+wlan1mon: interface state ENABLED->DISABLED
+wlan1mon: AP-DISABLED 
+nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+Configuration file: hostapd.conf
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+nl80211: Could not configure driver mode
+nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+Could not set interface wlan1mon flags (DOWN): Operation not permitted
+nl80211 driver initialization failed.
+wlan1mon: interface state UNINITIALIZED->DISABLED
+wlan1mon: AP-DISABLED 
+hostapd_free_hapd_data: Interface wlan1mon wasn't started
+Configuration file: hostapd.conf
+Using interface wlan1mon with hwaddr 18:d6:c7:09:cf:dc and ssid "test"
+wlan1mon: interface state UNINITIALIZED->ENABLED
+wlan1mon: AP-ENABLED 
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: authenticated
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: associated (aid 1)
+wlan1mon: AP-STA-CONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 RADIUS: starting accounting session 4237E7E9F9E43E1D
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: pairwise key handshake completed (RSN)
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: group key handshake completed (RSN)
+wlan1mon: AP-STA-DISCONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: authenticated
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: associated (aid 1)
+wlan1mon: AP-STA-CONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 RADIUS: starting accounting session 1C162B9DAB1921E0
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: pairwise key handshake completed (RSN)
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: group key handshake completed (RSN)
+wlan1mon: AP-STA-DISCONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: authenticated
+wlan1mon: STA 9c:2e:a1:91:cc:29 IEEE 802.11: associated (aid 1)
+wlan1mon: AP-STA-CONNECTED 9c:2e:a1:91:cc:29
+wlan1mon: STA 9c:2e:a1:91:cc:29 RADIUS: starting accounting session BC7FF04114FC7687
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: pairwise key handshake completed (RSN)
+wlan1mon: STA 9c:2e:a1:91:cc:29 WPA: group key handshake completed (RSN)
+1539711583.521358: Configuration file: hostapd.conf
+1539711583.553982: Could not read interface wlan1mon flags: No such device
+1539711583.554101: nl80211: Driver does not support authentication/association or connect commands
+1539711583.554116: nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+1539711583.557686: Could not read interface wlan1mon flags: No such device
+1539711583.557793: nl80211 driver initialization failed.
+1539711583.558685: wlan1mon: interface state UNINITIALIZED->DISABLED
+1539711583.558717: wlan1mon: AP-DISABLED 
+1539711583.558732: hostapd_free_hapd_data: Interface wlan1mon wasn't started
+1539711718.499176: Configuration file: hostapd.conf
+1539711718.738768: Using interface wlan1mon with hwaddr 18:d6:c7:09:cf:dc and ssid "test"
+1539711718.936971: wlan1mon: interface state UNINITIALIZED->ENABLED
+1539711718.937020: wlan1mon: AP-ENABLED 
+1539711731.723773: Station 9c:2e:a1:91:cc:29 not allowed to authenticate
+1539711731.728669: handle_auth_cb: STA 9c:2e:a1:91:cc:29 not found
+1539711734.235044: Station 9c:2e:a1:91:cc:29 not allowed to authenticate
+1539711734.236195: handle_auth_cb: STA 9c:2e:a1:91:cc:29 not found
+1539711736.183609: Station 9c:2e:a1:91:cc:29 not allowed to authenticate
+1539711736.184747: handle_auth_cb: STA 9c:2e:a1:91:cc:29 not found
+1539711737.994201: Station 9c:2e:a1:91:cc:29 not allowed to authenticate
+1539711737.995265: handle_auth_cb: STA 9c:2e:a1:91:cc:29 not found
+1539711740.546328: Station 9c:2e:a1:91:cc:29 not allowed to authenticate
+1539711740.547617: handle_auth_cb: STA 9c:2e:a1:91:cc:29 not found
+1539711742.015663: Station 9c:2e:a1:91:cc:29 not allowed to authenticate
+1539711742.016756: handle_auth_cb: STA 9c:2e:a1:91:cc:29 not found
+1539711743.911069: Station 9c:2e:a1:91:cc:29 not allowed to authenticate
+1539711743.912399: handle_auth_cb: STA 9c:2e:a1:91:cc:29 not found
+1539711769.550456: Station 9c:2e:a1:91:cc:29 not allowed to authenticate
+1539711769.551696: handle_auth_cb: STA 9c:2e:a1:91:cc:29 not found
+1539712163.900889: wlan1mon: interface state ENABLED->DISABLED
+1539712163.901078: wlan1mon: AP-DISABLED 
+1539712163.901131: nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+1539908973.774691: Configuration file: hostapd.conf
+1539908974.027093: Using interface wlan1mon with hwaddr 18:d6:c7:09:cf:dc and ssid "test"
+1539908974.224385: wlan1mon: interface state UNINITIALIZED->ENABLED
+1539908974.224433: wlan1mon: AP-ENABLED 
+1539908985.320667: wlan1mon: interface state ENABLED->DISABLED
+1539908985.320816: wlan1mon: AP-DISABLED 
+1539908985.320931: nl80211: deinit ifname=wlan1mon disabled_11b_rates=0
+1559755188.421577: Configuration file: hostapd.conf
+1559755188.647769: nl80211: Could not configure driver mode
+1559755188.647823: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559755188.893934: nl80211 driver initialization failed.
+1559755188.894024: wlan1: interface state UNINITIALIZED->DISABLED
+1559755188.894056: wlan1: AP-DISABLED 
+1559755188.894078: wlan1: CTRL-EVENT-TERMINATING 
+1559755188.894095: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559915591.962598: Configuration file: hostapd.conf
+1559915592.358604: nl80211: Could not configure driver mode
+1559915592.358649: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559915592.800470: nl80211 driver initialization failed.
+1559915592.800550: wlan1: interface state UNINITIALIZED->DISABLED
+1559915592.800577: wlan1: AP-DISABLED 
+1559915592.800594: wlan1: CTRL-EVENT-TERMINATING 
+1559915592.800608: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559915633.412755: Configuration file: hostapd.conf
+1559915633.631127: nl80211: Could not configure driver mode
+1559915633.631169: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559915634.075865: nl80211 driver initialization failed.
+1559915634.075945: wlan1: interface state UNINITIALIZED->DISABLED
+1559915634.075974: wlan1: AP-DISABLED 
+1559915634.075995: wlan1: CTRL-EVENT-TERMINATING 
+1559915634.076012: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559915699.577388: Configuration file: hostapd.conf
+1559915699.800413: nl80211: Could not configure driver mode
+1559915699.800461: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559915700.242253: nl80211 driver initialization failed.
+1559915700.242331: wlan1: interface state UNINITIALIZED->DISABLED
+1559915700.242360: wlan1: AP-DISABLED 
+1559915700.242380: wlan1: CTRL-EVENT-TERMINATING 
+1559915700.242396: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559915900.510018: Configuration file: hostapd.conf
+1559915900.728672: nl80211: Could not configure driver mode
+1559915900.728711: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559915901.169787: nl80211 driver initialization failed.
+1559915901.169875: wlan1: interface state UNINITIALIZED->DISABLED
+1559915901.169931: wlan1: AP-DISABLED 
+1559915901.169948: wlan1: CTRL-EVENT-TERMINATING 
+1559915901.169990: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559917868.970680: Configuration file: hostapd.conf
+1559917869.188383: nl80211: Could not configure driver mode
+1559917869.188438: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559917869.630700: nl80211 driver initialization failed.
+1559917869.630802: wlan1: interface state UNINITIALIZED->DISABLED
+1559917869.630832: wlan1: AP-DISABLED 
+1559917869.630850: wlan1: CTRL-EVENT-TERMINATING 
+1559917869.630865: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559918037.564222: Configuration file: hostapd.conf
+1559918037.787086: nl80211: Could not configure driver mode
+1559918037.787127: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559918038.229210: nl80211 driver initialization failed.
+1559918038.229334: wlan1: interface state UNINITIALIZED->DISABLED
+1559918038.229353: wlan1: AP-DISABLED 
+1559918038.229365: wlan1: CTRL-EVENT-TERMINATING 
+1559918038.229374: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559920458.980183: Configuration file: hostapd.conf
+1559920459.198303: nl80211: Could not configure driver mode
+1559920459.198350: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559920459.640123: nl80211 driver initialization failed.
+1559920459.640235: wlan1: interface state UNINITIALIZED->DISABLED
+1559920459.640276: wlan1: AP-DISABLED 
+1559920459.640298: wlan1: CTRL-EVENT-TERMINATING 
+1559920459.640315: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559936392.793921: Configuration file: hostapd.conf
+1559936393.068500: nl80211: Could not configure driver mode
+1559936393.068574: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559936393.314195: nl80211 driver initialization failed.
+1559936393.314290: wlan1: interface state UNINITIALIZED->DISABLED
+1559936393.314323: wlan1: AP-DISABLED 
+1559936393.314344: wlan1: CTRL-EVENT-TERMINATING 
+1559936393.314362: hostapd_free_hapd_data: Interface wlan1 wasn't started
+1559936462.445688: Configuration file: hostapd.conf
+1559936462.708335: nl80211: Could not configure driver mode
+1559936462.708383: nl80211: deinit ifname=wlan1 disabled_11b_rates=0
+1559936462.955139: nl80211 driver initialization failed.
+1559936462.955214: wlan1: interface state UNINITIALIZED->DISABLED
+1559936462.955227: wlan1: AP-DISABLED 
+1559936462.955235: wlan1: CTRL-EVENT-TERMINATING 
+1559936462.955243: hostapd_free_hapd_data: Interface wlan1 wasn't started
